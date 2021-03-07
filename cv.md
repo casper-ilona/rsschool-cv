@@ -40,6 +40,7 @@ A great, one-piece course that covers all the topics<br/> I need as a web develo
 ####Foreign languages:
 - English – pre intermediate
 - Russian – native
+- Belarusian - native
 
 Tools:
 ------
