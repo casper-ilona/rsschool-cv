@@ -47,12 +47,14 @@ Tools:
 IDEs: WebStorm
 
 Personal qualities:
+----
 - Great team player
 - Responsible
 - Stress resistant
 - Good communication skills
 
 Summary:
+---
 I'm a bright, communicative and curious person, who isn't afraid to try something new. Currently I'm looking for an opportunity to try myself as a front-end developer.
 
 
