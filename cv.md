@@ -34,10 +34,10 @@ React JS. Practical Course 2020 (incl. Hooks, Classes, Redux)
 
 A great, one-piece course that covers all the topics<br/> I need as a web developer who wants to work with the React \ Redux stack.
 
-####Frameworks and libraries:
+Frameworks and libraries:
 - React
 
-####Foreign languages:
+Foreign languages:
 - English – pre intermediate
 - Russian – native
 - Belarusian - native
@@ -46,13 +46,13 @@ Tools:
 ------
 IDEs: WebStorm
 
-###Personal qualities:
+Personal qualities:
 - Great team player
 - Responsible
 - Stress resistant
 - Good communication skills
 
-###Summary:
+Summary:
 I'm a bright, communicative and curious person, who isn't afraid to try something new. Currently I'm looking for an opportunity to try myself as a front-end developer.
 
 
